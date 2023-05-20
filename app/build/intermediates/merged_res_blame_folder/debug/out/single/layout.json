@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "com.balabanova.humblr.app-mergeDebugResources-55:/layout/fragment_single_subreddit.xml",
+        "source": "com.balabanova.humblr.app-main-58:/layout/fragment_single_subreddit.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-mergeDebugResources-55:/layout/item_viewpager.xml",
+        "source": "com.balabanova.humblr.app-main-58:/layout/item_viewpager.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-mergeDebugResources-55:/layout/fragment_favourites.xml",
+        "source": "com.balabanova.humblr.app-main-58:/layout/fragment_favourites.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-mergeDebugResources-55:/layout/item_subreddit.xml",
+        "source": "com.balabanova.humblr.app-main-58:/layout/item_subreddit.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-mergeDebugResources-55:/layout/fragment_friends.xml",
+        "source": "com.balabanova.humblr.app-main-58:/layout/fragment_friends.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-mergeDebugResources-55:/layout/fragment_profile.xml",
+        "source": "com.balabanova.humblr.app-main-58:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-mergeDebugResources-55:/layout/item_friends.xml",
+        "source": "com.balabanova.humblr.app-main-58:/layout/item_friends.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-mergeDebugResources-55:/layout/fragment_onboarding.xml",
+        "source": "com.balabanova.humblr.app-main-58:/layout/fragment_onboarding.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-mergeDebugResources-55:/layout/fragment_home.xml",
+        "source": "com.balabanova.humblr.app-main-58:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-mergeDebugResources-55:/layout/fragment_user.xml",
+        "source": "com.balabanova.humblr.app-main-58:/layout/fragment_user.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-mergeDebugResources-55:/layout/fragment_main.xml",
+        "source": "com.balabanova.humblr.app-main-58:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-mergeDebugResources-55:/layout/fragment_auth.xml",
+        "source": "com.balabanova.humblr.app-main-58:/layout/fragment_auth.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-mergeDebugResources-55:/layout/activity_main.xml",
+        "source": "com.balabanova.humblr.app-main-58:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-mergeDebugResources-55:/layout/common_progress_error.xml",
+        "source": "com.balabanova.humblr.app-main-58:/layout/common_progress_error.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-mergeDebugResources-55:/layout/item_post_image.xml",
+        "source": "com.balabanova.humblr.app-main-58:/layout/item_post_image.xml"
+    }
+]

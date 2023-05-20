@@ -1,0 +1,32 @@
+[
+  {
+    "name": "mobile_navigation",
+    "navigationXmlIds": [],
+    "deepLinks": [
+      {
+        "schemes": [
+          "com.example.intermediateproject"
+        ],
+        "host": "skillbox",
+        "port": -1,
+        "path": "/unsplash-auth-callback",
+        "query": "state\u003dmy_state\u0026code\u003d.*",
+        "sourceFilePosition": {
+          "mSourceFile": {
+            "mFilePath": "/Users/alexeybalabanov/Desktop/Reddit 2/app/src/main/res/navigation/mobile_navigation.xml",
+            "mDescription": "mobile_navigation"
+          },
+          "mSourcePosition": {
+            "mStartLine": 38,
+            "mStartColumn": 8,
+            "mStartOffset": 1609,
+            "mEndLine": 40,
+            "mEndColumn": 121,
+            "mEndOffset": 1779
+          }
+        },
+        "isAutoVerify": false
+      }
+    ]
+  }
+]

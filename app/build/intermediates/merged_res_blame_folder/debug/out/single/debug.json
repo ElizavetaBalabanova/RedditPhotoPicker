@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.balabanova.humblr.app-main-58:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_ic_download.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/ic_download.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable-v24_round_corners_20alfa_btn.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable-v24/round_corners_20alfa_btn.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.balabanova.humblr.app-main-58:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_ic_vote_down.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/ic_vote_down.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_rounded.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/rounded.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/xml_backup_rules.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_ic_share_24.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/ic_share_24.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/color_bottom_nav_selector.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/color/bottom_nav_selector.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_ic_arrow.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/ic_arrow.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/layout_item_friends.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/layout/item_friends.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/layout_activity_main.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_ic_comment.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/ic_comment.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/layout_fragment_main.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_humblr.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/humblr.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_onb_image2.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/onb_image2.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/layout_fragment_single_subreddit.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/layout/fragment_single_subreddit.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_onb_image3.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/onb_image3.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.balabanova.humblr.app-main-58:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.balabanova.humblr.app-main-58:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_ic_second.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/ic_second.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_ic_wifi_off.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/ic_wifi_off.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_gradient_background.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/gradient_background.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_ic_saved.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/ic_saved.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_selector_subscribe.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/selector_subscribe.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_ic_info_24.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/ic_info_24.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable-v24_placeholder.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable-v24/placeholder.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_ic_downloaded.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/ic_downloaded.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_ic_vote_up.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/ic_vote_up.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/layout_item_post_image.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/layout/item_post_image.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_ic_voted_down.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/ic_voted_down.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/layout_common_progress_error.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/layout/common_progress_error.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_selector_save.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/selector_save.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_selector_up_vote.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/selector_up_vote.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/layout_fragment_onboarding.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/layout/fragment_onboarding.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/layout_fragment_friends.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/layout/fragment_friends.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_full_logo.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/full_logo.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable-v24_ic_tab_selector.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable-v24/ic_tab_selector.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_ic_unsaved.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/ic_unsaved.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_selector_down_vote.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/selector_down_vote.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/layout_item_subreddit.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/layout/item_subreddit.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_ic_first.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/ic_first.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_ic_third.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/ic_third.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/layout_fragment_home.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_ic_r_circle.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/ic_r_circle.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/raw_progressbar.json.flat",
+        "source": "com.balabanova.humblr.app-main-58:/raw/progressbar.json"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/layout_fragment_auth.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/layout/fragment_auth.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_layout_bg.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/layout_bg.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/layout_fragment_user.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/layout/fragment_user.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/layout_fragment_profile.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_selector_download.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/selector_download.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_ic_frog.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/ic_frog.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.balabanova.humblr.app-main-58:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/xml_data_extraction_rules.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable-v24_error_image.jpg.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable-v24/error_image.jpg"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_ic_voted_up.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/ic_voted_up.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.balabanova.humblr.app-main-58:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_ic_subscribe.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/ic_subscribe.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.balabanova.humblr.app-main-58:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.balabanova.humblr.app-main-58:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/layout_fragment_favourites.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/layout/fragment_favourites.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_round_corners_btn.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/round_corners_btn.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.balabanova.humblr.app-main-58:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/navigation_mobile_navigation.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.balabanova.humblr.app-main-58:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/layout_item_viewpager.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/layout/item_viewpager.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_onb_image1.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/onb_image1.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable-v24_ic_tab_background.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable-v24/ic_tab_background.xml"
+    },
+    {
+        "merged": "com.balabanova.humblr.app-merged_res-56:/drawable_ic_unsubscribe.xml.flat",
+        "source": "com.balabanova.humblr.app-main-58:/drawable/ic_unsubscribe.xml"
+    }
+]

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.balabanova.humblr.app-mergeDebugResources-54:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/alexeybalabanov/.gradle/caches/transforms-3/b4ab927b1ec0c661f0e1725114070405/transformed/appcompat-1.6.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
